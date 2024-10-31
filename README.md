@@ -5,3 +5,6 @@ El objetivo del juego de mesa risk es dominar el mundo, conquistando sus territo
 5<6: gana 2, 1 pierde un soldado
 
 3<4: gana 2, 1 pierde un soldado
+
+![image](https://github.com/user-attachments/assets/43cb59d1-0316-4407-9998-b6c2ea6a02cb)
+
